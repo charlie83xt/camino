@@ -1,1 +1,3 @@
+Intructions to deploying code to the repositories.
+
 This file is part of the instructions following the pluralsight onsite changes and commit
