@@ -5,6 +5,8 @@
 Include a description of what has been changed and include relevant motivation and context.
 If needed, ensure to list all depndencies that are required for this change.
 
+Closes #8
+
 FIxes # (issue)
 
 ## Type of change
